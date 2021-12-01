@@ -1,0 +1,64 @@
+#logo{
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+}
+body{
+    background-color: #161452;
+    color: #EA97F9;
+    font-size: 15px;
+}
+#foto1{
+    width: 300px;
+    height: 300px;
+    border-radius: 300px;
+}
+.nav{
+    text-decoration: none;
+    color: #161452;
+    font-size: 23px;
+    margin: 7%;
+    display: flexbox;
+    border-radius: 30px;
+}
+.nav:hover{
+    background-color: #EA97F9;
+
+}
+#perfil{
+    width: 500px;
+    height: 500px;
+}
+#media{
+    width: 500px;
+    height: 500px;
+    border-radius: 500px;
+}
+#foot{
+    background-color: #EA97F9;
+    width: auto;
+    height: auto;
+    border-radius: 3px;
+}
+.foot{
+    color: #161452;
+    text-decoration: none;
+    font-size: 23px;
+    display: flex;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+}
+#navegation{
+    margin-top: -7px;
+    margin-bottom: 7px;
+    margin-right: -7px;
+    margin-left: -7px;
+    background-color:#ea97f979 ;
+}
+#aboutcontent{
+    font-size: 20px;
+}
+#presentation{
+    text-align: center;
+}
